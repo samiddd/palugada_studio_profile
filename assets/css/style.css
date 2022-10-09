@@ -452,7 +452,8 @@ section {
 
 .hero h1 {
   margin: 0;
-  font-size: 48px;
+  margin-bottom: 2rem;
+  font-size: 40px;
   font-weight: 700;
   color: #012970;
 }
@@ -2309,7 +2310,8 @@ section {
 }
 
 .footer .footer-top .footer-info .logo img {
-  width: 25%;
+  width: 20%;
+  margin-right: 0.5rem;
 }
 
 .footer .footer-top .footer-info .logo span {
